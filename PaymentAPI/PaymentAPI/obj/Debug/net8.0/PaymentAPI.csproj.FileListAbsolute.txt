@@ -250,3 +250,4 @@ X:\All WebDev\Payment_API_Project\PaymentAPI\PaymentAPI\bin\Debug\net8.0\runtime
 X:\All WebDev\Payment_API_Project\PaymentAPI\PaymentAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 X:\All WebDev\Payment_API_Project\PaymentAPI\PaymentAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 X:\All WebDev\Payment_API_Project\PaymentAPI\PaymentAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+X:\All WebDev\Payment_API_Project\PaymentAPI\PaymentAPI\obj\Debug\net8.0\PaymentAPI.sourcelink.json
